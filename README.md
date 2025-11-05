@@ -1,3 +1,4 @@
+```
 if you are new to these tasks follow the steps below one by one:
 
 1- download all code files with the .py extension and the requirements.tx file.
@@ -5,7 +6,7 @@ if you are new to these tasks follow the steps below one by one:
 3- move the inference.py, train.py and utils.py files into the src folder. main.py, demo.py and requirements.txt should remain in the YOLO folder. the structure should look like this:
 
 YOLO/
-├── main.py
+├── main.py 
 ├── demo.py
 ├── requirements.txt
 ├── src/
@@ -41,4 +42,4 @@ pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2
 pip install opencv-python-headless==4.9.0.80
 pip install ultralytics==8.2.50
 
-after running these commands try running the command in step 7 again. most likely it will work without any problems.
+after running these commands try running the command in step 7 again. most likely it will work without any problems.```
